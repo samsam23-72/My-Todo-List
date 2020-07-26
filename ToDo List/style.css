@@ -1,0 +1,39 @@
+body{
+    margin-top: 20px;
+    text-align: center;
+    background-color: seashell;
+}
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+h4{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.btn{
+    margin: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify;
+    background-color: blueviolet;
+    color: white;
+}
+
+input{
+    margin: 4px;
+}
+
+li{
+    list-style: none;
+    margin: 4px;
+}
+.in{
+    color: red;
+    text-transform: capitalize;
+    font-weight: bold;
+    
+}
